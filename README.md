@@ -19,10 +19,10 @@ Huy: UC03, UC04
 Hoà: UC05, UC06
 
 # Sprint 2:
-Khôi
-Huy
-Hoà 
-Biển
+Khôi: UC07, UC08, UC09, UC10, UC11
+Huy: UC12, UC13, UC14
+Hoà :  UC18, UC19 UC20
+Biển: UC15, UC16, UC17
 
 # Sprint 3:
 Khôi
