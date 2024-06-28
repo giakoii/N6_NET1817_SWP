@@ -14,7 +14,7 @@ Sprint 4
 
 # Test Work Flow
 Sprint 1:
-Khôi:UC01, UC02
+Khôi: UC01, UC02
 Huy: UC03, UC04
 Hoà: UC05, UC06
 
@@ -25,13 +25,13 @@ Hoà :  UC18, UC19 UC20
 Biển: UC15, UC16, UC17
 
 # Sprint 3:
-Khôi
-Huy
-Hoà 
-Biển
+Khôi: UC21
+Huy: UC22
+Hoà: UC23
+Biển: UC24
 
 # Sprint 4:
-Khôi
-Huy
-Hoà 
-Biển
+Khôi: UC25, UC26, UC27
+Huy: UC28, UC29, UC30, UC31, UC32, 
+Hoà : UC33, UC34, UC35, UC36
+Biển: UC37, UC38, UC39, UC40, UC41
